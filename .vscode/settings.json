@@ -1,3 +1,4 @@
 {
-    "terminal.integrated.fontSize": 12
+    "terminal.integrated.fontSize": 12,
+    "python.pythonPath": "d:\\Dropbox\\python\\20200502-restart\\venv-office\\restart\\Scripts\\python.exe"
 }

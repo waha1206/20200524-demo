@@ -136,3 +136,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# vscode
+.vscode/
+
+# 忽略批次執行檔
+run.bat
